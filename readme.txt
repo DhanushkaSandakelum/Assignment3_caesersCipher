@@ -1,0 +1,2 @@
+-In imperativeApproach folder include the scala code written in imperative style using my own way
+-In functionApproach folder include the scala code written in functional style using the lecture videos
